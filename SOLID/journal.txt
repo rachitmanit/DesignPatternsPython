@@ -1,0 +1,2 @@
+Entries count: 1 
+Entries: ['I smiled today.', 'I laughed today.']
