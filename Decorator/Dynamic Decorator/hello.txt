@@ -1,0 +1,2 @@
+helloworld
+This is written without writelines methods call. This uses getattr
